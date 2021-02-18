@@ -23,3 +23,6 @@ I read an article about human values and software engineering. The article was q
 Trying to add the actual picture broke the blog for some reason
 
 Some of the imporant goals for the project are listed in the list to make sure that the program not only acheives its goal, but that the developers actively make sure that it is respecting human values as well. This makes sure that the goals of the project are complete along with making sure that users are comfortable and more than satisfied with the product. The product doesn't just meet the company values but it addresses its users human values as well. 
+
+## HW6: Stupid or Solid?
+I have heard of the SOLID coding priciple before but i haven't heard it contrasted with STUPID. All the principles discussed in the reading make sense and they are thing that, if not directly taught, are indirectly taught in classes here at CofC. Like the article said, writing solid code is not hard its just more time consuming and you can't be lazy about it. All of the SOLID principles are basically a listed out, more specific, version or KISS, keep it simple, stupid. Make sure code is easy to understand and easy to modify. Make sure you don't have any extra classes or methods, make sure it functions as described. 
