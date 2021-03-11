@@ -24,8 +24,8 @@ I had difficulty finding bugs that weren't boing looked at. Everything already e
 
 ## HW5: What's Happening?
 7.2.2
-
 without u flag
+
 <    printf("Hello, World.\n");
 ---
 >    printf("Hello, World!\n");
@@ -42,7 +42,7 @@ with u flag
         return 0;
  }
  
- 7.8
+
 
 I read an article about human values and software engineering. The article was quick to point out the difference between human values and business values and that many times the human values can be overlooked in pursuit of business values. One of the examples they used was the Volkswagen emissions scandal. Volkswagen engineers intentionally programmed the car to run more efficiently on the emissions testing machine than it did in the real world. This was an example of engineers putting asside human values, like health and safety, for business values, profit and cutting costs. This resulted in a huge loss in sales for Volkswagen for the next few years as well as a fine and the resignation of their CEO. Thats one of the problems the article was addressing though. Unfortunaltely businesses need to be regulated by hurting them financially instead of them just doing the right thing. The engineers wrote that software, and the department heads let that idea through knowing it was bad for the environment and human health. A potential solution to problems like these is discuessed with the development of the Shwartz model. It can be difficult and dangerous to create concrete definitions for human values so they came up with value portraits. Value portraits create a clear taxonimy of human values for a project. A list of things that the project should and shouldn't do. The following value portrait is from the Clasp project which the article discusses. Clasp is a project that attempts to tackle social anxiety in autistic people.
 
