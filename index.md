@@ -26,8 +26,8 @@ I had difficulty finding bugs that weren't boing looked at. Everything already e
 7.2.2
 
 without u flag
-xc8
-<    printf("Hello, World.\n");
+
+>    printf("Hello, World.\n");
 ---
 >    printf("Hello, World!\n");
 >    
