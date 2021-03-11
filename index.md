@@ -3,6 +3,8 @@ Hi, my name is Joe Mezera. I am a senior here at the College of Charelston. I hi
 
 ## HW1: Reflections on FOSS
 
+
+
 ## HW4: This Bugs Me
 Exercise 6.4 - Find the Oldest Bug:
 [The Oldest Bug](https://github.com/darkreader/darkreader/issues/489) is a bug that says that the dynamic theme feature for darkreader does not work on youtube. The issue is marked as not resolved. I don't actaully know what the dynamic theme feature is so it may have been removed because right now users need to manually change the theme of websites so the feature may have been removed hence why it hasn't been fixed. 
