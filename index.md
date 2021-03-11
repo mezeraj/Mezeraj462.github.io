@@ -1,10 +1,13 @@
-## HW0: Introduction
+## HW1: Introduction
 Hi, my name is Joe Mezera. I am a senior here at the College of Charelston. I hit global in wingman. I like cars, and computers, and going to in person classes.
 
-## HW1: Reflections on FOSS
+## HW2: Reflections on FOSS
 The reading The Cathedral and the Bazaar compares linux to the bazaar. Cathedrals are often designed by one person, the whole idea comes from one mind and it is that one persons masterpiece. The bazaar is a collection of many different people doing their own little thing but all in the same building. Linux is like the bazaar because they are all contributing to the linux operating system but they are all contributing in their own unique way. It is a collection of other peoples ideas, not one persons masterpiece, and thats one of the things that makes linux great. 
 
 For our open source project we decided on PokeAPI. PokeAPI is a project that interests the whole group and they hae lots of issues reported in the issues tab. It is written mostly in python which our whole group is familiar with. The goal of PokeAPI is to great a centeralized database of all of the pokemon information so that webistes that need the information don't have to use multiple different sources for their data. PokeAPI strives to have images, move lists, names, types, and gender for all pokemon. Our group also looked into doing zulip but ultimately decided against it because it seemed less interesting.
+
+## HW3: Reflections on Open Source in Todays World
+I read an article about new, open-source, 3D printing software that allows users to avoid the proprietary software and 3D printing materials that are expensive to use. This is allowing for the expansion of 3D printing and makes it more accessable to at home users and also makes it more viable to mass manufacturing. Affordable 3D printing will allow for many things to be stronger while remaining cheaper and quicker to make. One example of 3D printing being used to make stronger things while making them lighter and cheaper than before is Porsche. Porsche is using 3d printing to make pistons using topographical mapping. With this method they only need to print the alluminum alloy in areas that are load bearing,leaving the rest empty. This allows for less material to be used, making it lighter and cheaper, and it is cheaper and stronger than other methods that topographical mapping is possible. The current way strong affordable pistons are made it isn't even possible for topographical mapping for be implemented because it would actually ruin the integrity of the object. 
 
 ## HW4: This Bugs Me
 Exercise 6.4 - Find the Oldest Bug:
@@ -20,6 +23,27 @@ Exercise 6.7.1 - Bug Triage:
 I had difficulty finding bugs that weren't boing looked at. Everything already either had a fix pushed to it, had extensive comments and questions, or the poster suddenly stopped responding. The only bugs that seemed like they might need assistance were bugs on MacOS and I don't have access to a mac. 
 
 ## HW5: What's Happening?
+7.2.2
+
+without u flag
+<    printf("Hello, World.\n");
+---
+>    printf("Hello, World!\n");
+>    
+
+with u flag
+--- helloc.c.punct    2021-02-11 12:55:37.610201495 -0500
++++ hello.c    2021-02-11 12:55:58.562039387 -0500
+@@ -5,6 +5,6 @@
+ #include <stdio.h>
+ int main(){
+-       printf("Hello, World.\n");
++       printf("Hello, World!\n");
+        return 0;
+ }
+ 
+ 7.8
+
 I read an article about human values and software engineering. The article was quick to point out the difference between human values and business values and that many times the human values can be overlooked in pursuit of business values. One of the examples they used was the Volkswagen emissions scandal. Volkswagen engineers intentionally programmed the car to run more efficiently on the emissions testing machine than it did in the real world. This was an example of engineers putting asside human values, like health and safety, for business values, profit and cutting costs. This resulted in a huge loss in sales for Volkswagen for the next few years as well as a fine and the resignation of their CEO. Thats one of the problems the article was addressing though. Unfortunaltely businesses need to be regulated by hurting them financially instead of them just doing the right thing. The engineers wrote that software, and the department heads let that idea through knowing it was bad for the environment and human health. A potential solution to problems like these is discuessed with the development of the Shwartz model. It can be difficult and dangerous to create concrete definitions for human values so they came up with value portraits. Value portraits create a clear taxonimy of human values for a project. A list of things that the project should and shouldn't do. The following value portrait is from the Clasp project which the article discusses. Clasp is a project that attempts to tackle social anxiety in autistic people.
 
 [Value Portrait Table](https://drive.google.com/drive/u/0/folders/1fccaM49tOoawLg2x9pxC_LGj83MtpGPr)
