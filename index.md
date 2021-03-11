@@ -2,8 +2,9 @@
 Hi, my name is Joe Mezera. I am a senior here at the College of Charelston. I hit global in wingman. I like cars, and computers, and going to in person classes.
 
 ## HW1: Reflections on FOSS
+The reading The Cathedral and the Bazaar compares linux to the bazaar. Cathedrals are often designed by one person, the whole idea comes from one mind and it is that one persons masterpiece. The bazaar is a collection of many different people doing their own little thing but all in the same building. Linux is like the bazaar because they are all contributing to the linux operating system but they are all contributing in their own unique way. It is a collection of other peoples ideas, not one persons masterpiece, and thats one of the things that makes linux great. 
 
-
+For our open source project we decided on PokeAPI. PokeAPI is a project that interests the whole group and they hae lots of issues reported in the issues tab. It is written mostly in python which our whole group is familiar with. The goal of PokeAPI is to great a centeralized database of all of the pokemon information so that webistes that need the information don't have to use multiple different sources for their data. PokeAPI strives to have images, move lists, names, types, and gender for all pokemon. Our group also looked into doing zulip but ultimately decided against it because it seemed less interesting.
 
 ## HW4: This Bugs Me
 Exercise 6.4 - Find the Oldest Bug:
